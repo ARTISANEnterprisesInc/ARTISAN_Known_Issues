@@ -1,2 +1,7 @@
 # ARTISAN_Known_Issues
 Comprehensive list of current and all known problems and issues with every ARTISAN product available.
+
+CURRENTLY ADDRESSED PROBLEMS
+firmware/mainframe software reported bugs. manually submitted via ticket system on aug.14.26.2223hrs
+
+we are experiencing some technical issues with some of the core code that controls the user experience at artisan.enterprises, store.artisan.enterprises, studio.artisan.enterprised and system firmware that controls the user interface experience. please note we are working hard to ensure these issues are resolved immedietely and you should expect to return back to the user experience we typically deliver. we want to ensure all users at this time that the current problems do not affect login, user data, backend and/or data security in any way and are primarily the cause of system problems only attached to the visual and human interface user experience. although both our teams and the automated integrity system has not detected any further errors or problems, we highly encourage any guest or registered user to report any and all problems via our main support ticket submission database or email our 24h-hour technical support staff at either helpdesk@artisan.enterprises or via our chat system using the code "487665-hp_agent=a1426" and our automated chat system will automatically call out a support specialist to address your issue(s). thank you and we should be back to good health by Tues.aug.18.26.0657hrs
